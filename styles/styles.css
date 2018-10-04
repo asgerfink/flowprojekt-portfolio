@@ -123,7 +123,9 @@ th {
 
 /*---------------MINE PROJEKTER----------------*/
 
-
+.billeder2 img {
+	margin-bottom: 1200px;
+}
 
 
 
@@ -147,6 +149,9 @@ th {
 	font-size: 30px;
 	display: block;
 	color: cornsilk;	
+}
+p {
+	color:cornsilk;
 }
 
 /*------------------KONTAKT--------------------*/
